@@ -1,0 +1,81 @@
+{
+  "name": "nativescript-angular-drawer-template",
+  "main": "main.js",
+  "version": "1.1.0",
+  "author": {
+    "name": "Shripal Soni",
+    "email": "shripalsoni04@gmail.com"
+  },
+  "description": "A starter template with drawer navigation for nativescript angular projects.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shripalsoni04/nativescript-angular-drawer-template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shripalsoni04/nativescript-angular-drawer-template/issues"
+  },
+  "keywords": [
+    "mobile",
+    "angular",
+    "nativescript",
+    "{N}",
+    "tns",
+    "template",
+    "drawer"
+  ],
+  "homepage": "https://github.com/shripalsoni04/nativescript-angular-drawer-template",
+  "dependencies": {
+    "@angular/common": "2.1.2",
+    "@angular/compiler": "2.1.2",
+    "@angular/core": "2.1.2",
+    "@angular/forms": "2.1.2",
+    "@angular/http": "2.1.2",
+    "@angular/platform-browser": "2.1.2",
+    "@angular/platform-browser-dynamic": "2.1.2",
+    "@angular/router": "3.1.2",
+    "nativescript-angular": "1.1.2",
+    "nativescript-telerik-ui": "^1.4.1",
+    "nativescript-theme-core": "^0.1.3",
+    "reflect-metadata": "~0.1.8",
+    "rxjs": "5.0.0-beta.12",
+    "tns-core-modules": "2.3.0"
+  },
+  "devDependencies": {
+    "babel-traverse": "6.18.0",
+    "babel-types": "6.18.0",
+    "babylon": "6.13.1",
+    "lazy": "1.0.11",
+    "nativescript-dev-typescript": "^0.3.2",
+    "typescript": "^2.0.8",
+    "zone.js": "~0.6.21"
+  },
+  "gitHead": "daf51ac1cf928738c4954c0a55a2c42239d9e94a",
+  "_id": "nativescript-angular-drawer-template@1.1.0",
+  "scripts": {},
+  "_shasum": "25f31006e17ea2165f8c5b0b46e3f7293a049e4c",
+  "_from": "nativescript-angular-drawer-template@latest",
+  "_npmVersion": "3.10.3",
+  "_nodeVersion": "6.6.0",
+  "_npmUser": {
+    "name": "shripalsoni04",
+    "email": "shripalsoni04@gmail.com"
+  },
+  "dist": {
+    "shasum": "25f31006e17ea2165f8c5b0b46e3f7293a049e4c",
+    "tarball": "https://registry.npmjs.org/nativescript-angular-drawer-template/-/nativescript-angular-drawer-template-1.1.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "shripalsoni04",
+      "email": "shripalsoni04@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/nativescript-angular-drawer-template-1.1.0.tgz_1479222260965_0.438617876265198"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/nativescript-angular-drawer-template/-/nativescript-angular-drawer-template-1.1.0.tgz",
+  "readme": "ERROR: No README data found!"
+}
