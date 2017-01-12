@@ -6,5 +6,7 @@ export class CraftSupply {
     description: string;
     upc: string;
     image: string;
+    manufacturer: string;
+    brand: string;
     craftCategory : CraftCategory;    
 }
